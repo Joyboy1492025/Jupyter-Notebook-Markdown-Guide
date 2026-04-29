@@ -93,7 +93,7 @@ README.md
 or
 
 ```text
-markdown-guide.md
+markdown-guide.ipynb
 ```
 
 and use it as your personal Markdown cheat sheet.
