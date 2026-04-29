@@ -63,7 +63,7 @@ Jupyter-Notebook-Markdown-Guide/
 │
 ├── README.md
 ├── markdown-guide.ipynb
-└── examples/
+
 ```
 
 ---
